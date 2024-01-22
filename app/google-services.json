@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492117022127",
+    "project_id": "camellia-2ecfe",
+    "storage_bucket": "camellia-2ecfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492117022127:android:a1b9eae209b305385a0b5a",
+        "android_client_info": {
+          "package_name": "com.example.pokusajmailasvracanjem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd60b9clkQtZwTe4brSD-z4wg9XLEzuPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
